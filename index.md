@@ -45,3 +45,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
+
+BLINKING TWO LEDS SIMULTAENOUSLY
+
+![NO IMAGE]()
