@@ -2,29 +2,29 @@
 
 ## DAY-1(08-05-2023)
 
-CREATED A GITHUB ACCOUNT
+(1) CREATED A GITHUB ACCOUNT
 
-BASIC SYNTAX
+(2) BASIC SYNTAX
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-54-30.png)
 
 ## DAY-2(09-05-2023)
 
-Blinking an led
+(1) Blinking an led
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
 
-Blinking an led using switch
+(2) Blinking an led using switch
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
 
 ## DAY 3(11-05-2023)
 
-BLINKING AN LED USING AND GATE
+(1) BLINKING AN LED USING AND GATE
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2010-54-36.png)
 
-BLINKING AN LED USING ARDUINO
+(2) BLINKING AN LED USING ARDUINO
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-11-28.png)
 
@@ -46,7 +46,7 @@ void loop()
 }
 ```
 
-BLINKING TWO LEDS SIMULTAENOUSLY
+(3) BLINKING TWO LEDS SIMULTAENOUSLY
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2012-51-51.png)
 
@@ -73,7 +73,7 @@ void loop()
   delay(150); // Wait for 1000 millisecond(s)
 }
 ```
-BLINKING 4 LEDS SIMULTAENOUSLY
+(4) BLINKING 4 LEDS SIMULTAENOUSLY
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2015-13-19.png)
 
 PROGRAM-3
