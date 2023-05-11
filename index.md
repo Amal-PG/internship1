@@ -73,3 +73,6 @@ void loop()
   delay(150); // Wait for 1000 millisecond(s)
 }
 ```
+BLINKING 4 LEDS SIMULTAENOUSLY
+![NO IMAGE]()
+
