@@ -48,4 +48,28 @@ void loop()
 
 BLINKING TWO LEDS SIMULTAENOUSLY
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2012-51-51.png)
+
+PROGRAM-2
+
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(13,LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(12,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+}
+```
