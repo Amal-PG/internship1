@@ -74,5 +74,40 @@ void loop()
 }
 ```
 BLINKING 4 LEDS SIMULTAENOUSLY
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2014-28-23.png)
+
+PROGRAM-3
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(7, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(13,LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12,LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(8, HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(8,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(7, HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(7,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+}
+
+```
+
 
