@@ -10,4 +10,4 @@ BlinKing an led using switch
 
 DAY 3 BLINKING AN LED USING AND GATE
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2010-54-36.png)
