@@ -12,7 +12,7 @@ DAY 3 BLINKING AN LED USING AND GATE
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2010-54-36.png)
 
-BLINKING AN LED in ardeno
+BLINKING AN LED IN ARDENO
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-11-28.png)
 
