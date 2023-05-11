@@ -1,5 +1,7 @@
 # 10 days internship
 
+#DAY-2
+
 BlinKing an led
 
 ![no image](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
