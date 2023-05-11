@@ -10,11 +10,11 @@ BASIC SYNTAX
 
 ## DAY-2(09-05-2023)
 
-BlinKing an led
+Blinking an led
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
 
-BlinKing an led using switch
+Blinking an led using switch
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
 
