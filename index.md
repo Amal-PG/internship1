@@ -74,7 +74,7 @@ void loop()
 }
 ```
 BLINKING 4 LEDS SIMULTAENOUSLY
-![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2014-28-23.png)
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2015-13-19.png)
 
 PROGRAM-3
 ```
