@@ -6,7 +6,7 @@ CREATED A GITHUB ACCOUNT
 
 BASIC SYNTAX
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-54-30.png)
 
 #DAY-2
 
