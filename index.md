@@ -1,14 +1,22 @@
 # 10 days internship
 
+#DAY-1
+
+CREATED A GITHUB ACCOUNT
+
+BASIC SYNTAX
+
+![NO IMAGE]()
+
 #DAY-2
 
 BlinKing an led
 
-![no image](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
 
 BlinKing an led using switch
 
-![no image](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
 
 #DAY 3
 
