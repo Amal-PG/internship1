@@ -16,7 +16,7 @@ BLINKING AN LED in ardeno
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-11-28.png)
 
-PROGRAME-1
+PROGRAM-1
 ```
 // C++ code
 //
