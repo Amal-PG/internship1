@@ -83,7 +83,7 @@ void loop()
   delay(150); // Wait for 1000 millisecond(s)
 }
 ```
-(4) BLINKING 4 LEDS SIMULTAENOUSLY
+(4) LED CHASER
 
 [LED CHASER TINKER THIS](https://www.tinkercad.com/things/6hom0eosdLN)
 
