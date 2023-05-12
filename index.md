@@ -10,24 +10,29 @@
 
 ## DAY-2(09-05-2023)
 
-(1) Blinking an led
+(1) Blinking a led
 
-[BLINKING A LED](https://www.tinkercad.com/things/ihqp5M6lnrP)
+[BLINKING A LED TINKER THIS](https://www.tinkercad.com/things/ihqp5M6lnrP)
+
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
 
-(2) Blinking an led using switch
+(2) Blinking a led using switch
 
-[BLINKING A LED USING SWITCH](https://www.tinkercad.com/things/b6SKf5j9XoS)
+[BLINKING A LED USING SWITCH TINKER THIS](https://www.tinkercad.com/things/b6SKf5j9XoS)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
 
 ## DAY 3(11-05-2023)
 
-(1) BLINKING AN LED USING AND GATE
+(1) BLINKING A LED USING AND GATE
+
+[BLINKING A LED USING AND GATE TINKER THIS](https://www.tinkercad.com/things/cRljKIQu8De)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2010-54-36.png)
 
-(2) BLINKING AN LED USING ARDUINO
+(2) BLINKING A LED USING ARDUINO
+
+[BLINKING A LED USING ARDUINO TINKER THIS](https://www.tinkercad.com/things/hmC8XKxwG8u)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-11-28.png)
 
@@ -50,6 +55,8 @@ void loop()
 ```
 
 (3) BLINKING TWO LEDS SIMULTAENOUSLY
+
+[BLINKING TWO LEDS SIMULTAENOUSLY TINKER THIS](https://www.tinkercad.com/things/fDNctMWlytC)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2012-51-51.png)
 
@@ -78,7 +85,7 @@ void loop()
 ```
 (4) BLINKING 4 LEDS SIMULTAENOUSLY
 
-[LED CHASER](https://www.tinkercad.com/things/6hom0eosdLN)
+[LED CHASER TINKER THIS](https://www.tinkercad.com/things/6hom0eosdLN)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2015-13-19.png)
 
