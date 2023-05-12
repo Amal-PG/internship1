@@ -75,6 +75,8 @@ void loop()
 ```
 (4) BLINKING 4 LEDS SIMULTAENOUSLY
 
+[LED CHASER](https://www.tinkercad.com/things/6hom0eosdLN)
+
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2015-13-19.png)
 
 PROGRAM-3
