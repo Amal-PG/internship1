@@ -12,9 +12,12 @@
 
 (1) Blinking an led
 
+[BLINKING A LED](https://www.tinkercad.com/things/ihqp5M6lnrP)
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2013-03-31.png)
 
 (2) Blinking an led using switch
+
+[BLINKING A LED USING SWITCH](https://www.tinkercad.com/things/b6SKf5j9XoS)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-09%2012-38-53.png)
 
