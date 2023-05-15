@@ -136,6 +136,8 @@ BLOCKLY
 
 (2) 
 
+[TINKER THIS](https://www.tinkercad.com/things/1Gc45ge1orA)
+
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-15%2014-16-39.png)
 
 PROGRAM
