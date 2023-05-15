@@ -36,7 +36,7 @@
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2011-11-28.png)
 
-PROGRAM-1
+PROGRAM
 ```
 // C++ code
 //
@@ -60,7 +60,7 @@ void loop()
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2012-51-51.png)
 
-PROGRAM-2
+PROGRAM
 
 ```
 // C++ code
@@ -89,7 +89,7 @@ void loop()
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2015-13-19.png)
 
-PROGRAM-3
+PROGRAM
 ```
 // C++ code
 //
