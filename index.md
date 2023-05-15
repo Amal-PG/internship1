@@ -125,9 +125,11 @@ void loop()
 
 ## DAY-4
 
-BLOCKLY
+(1) BLOCKLY
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/blockly%20logic.png)
+
+(2) 
 
 ## DAY-5
 
