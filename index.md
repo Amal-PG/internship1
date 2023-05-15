@@ -129,4 +129,30 @@ BLOCKLY
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/blockly%20logic.png)
 
+## DAY-5
+
+(1) DRONE
+
+
+(2) 
+
+![NO IMAGE]()
+
+PROGRAM
+```
+const int potPin = A0;
+
+void setup() {
+  Serial.begin(9600);
+}
+void loop() {
+  int potValue = analogRead(potPin);
+  
+  Serial.println(potValue);
+  delay(100);
+}
+
+```
+
+
 
