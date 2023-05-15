@@ -134,11 +134,11 @@ BLOCKLY
 (1) DRONE
 
 
-(2) 
+(2) WORKING OF ANALOG POTENTIOMETER
 
-[TINKER THIS](https://www.tinkercad.com/things/1Gc45ge1orA)
+[WORKING OF ANALOG POTENTIOMETER TINKER THIS](https://www.tinkercad.com/things/1Gc45ge1orA)
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-15%2014-37-43.png)
 
 PROGRAM
 ```
