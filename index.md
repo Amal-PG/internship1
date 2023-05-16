@@ -160,7 +160,7 @@ void loop() {
 
 (3) WORKING OF 7 SEGMENT USING ARDUINO
 
-[WORKING OF 7 SEGMENT USING ARDUINO TINKER THIS]([)](https://www.tinkercad.com/things/hsg7qT6yixU)
+[WORKING OF 7 SEGMENT USING ARDUINO TINKER THIS](https://www.tinkercad.com/things/hsg7qT6yixU)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-16%2009-30-36.png)
 
