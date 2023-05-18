@@ -276,4 +276,4 @@ void loop()
 
 [3D DESIGN OF A CAR TIKER THIS](https://www.tinkercad.com/things/lcj5wojCtPc)
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-18%2011-18-46.png)
