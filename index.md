@@ -266,4 +266,8 @@ void loop()
 
 ## DAY-6(16-05-2023)
 
-(1)3D DESIGINING
+(1) 3D DESIGNING
+
+[3D DESIGNING TINKER THIS](https://www.tinkercad.com/things/kN0FJZe2jah)
+
+![NO IMAGE]()
