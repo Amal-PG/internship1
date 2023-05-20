@@ -280,15 +280,18 @@ void loop()
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-18%2011-18-46.png)
 
-## DAY-7
+## DAY-7(17-05-2023)
 
+(1) VISITED ELECTRICAL LAB & ELECTRONICS LAB
+
+(2) INTRODUCED THE YASKWA ARM ROBOT
 
 
 ## DAY-8(18-05-2023)
 
-(1) 
+(1) ADJUSTING THE SPEED OF THE 7 SEGMENT DISPLAY BY VARING THE POT
 
-[TINKER THIS](https://www.tinkercad.com/things/dU7LGxmTGVX)
+[ADJUSTING THE SPEED OF THE 7 SEGMENT DISPLAY BY VARING THE POT TINKER THIS](https://www.tinkercad.com/things/dU7LGxmTGVX)
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-18%2011-47-38.png)
 
