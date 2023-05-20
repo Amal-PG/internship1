@@ -402,11 +402,11 @@ void loop()
 }
 ```
 
-(2) BLINKING A RGB LED 
-
-![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2011-25-50.png)
+(2) BLINKING A RGB LED
 
 [BLINKING A RGB LED TIKER THIS](https://www.tinkercad.com/things/1r5figIf824)
+
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2011-25-50.png)
 
 PROGRAM
 
@@ -434,6 +434,6 @@ void loop()
 ```
 ## DAY-9(19-05-2023)
 
-(1) DESIGNED A PUSHBUTTON
+(1) DESIGNED A PUSHBUTTON LED
 
-(2) DESIGNED
+(2) DESIGNED A TRAFFIC SIGNAL LIGHT
