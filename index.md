@@ -434,9 +434,42 @@ void loop()
 
 (1) DESIGNED A PUSHBUTTON LED
 
-[DESIGNED A PUSHBUTTON LED TINKER THIS]()
+[DESIGNED A PUSHBUTTON LED TINKER THIS](https://www.tinkercad.com/things/aW3vBahITyi)
 
 ![NO IMAGE]()
+
+PROGRAM
+```
+// C++ code
+/// constants won't change. They're used here to set pin numbers:
+const int buttonPin = 2;     // the number of the pushbutton pin
+const int ledPin =  13;      // the number of the LED pin
+
+// variables will change:
+int buttonState = 0;         // variable for reading the pushbutton status
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(buttonPin);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+}
+
+```
 
 (2) DESIGNED A TRAFFIC SIGNAL LIGHT
 
@@ -489,7 +522,7 @@ void loop() {
   else if (buttonStateO == HIGH) {
     digitalWrite(ledPinR, LOW);
     digitalWrite(ledPinO, HIGH);
-    digitalWrite(ledPinG, LOW);
+    digitalWrite(ledPinG, LOW);https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2013-09-31.png
     }
   
   else if (buttonStateG == HIGH) {
@@ -508,6 +541,3 @@ void loop() {
   }   
   
   ```
-
-## DAY-10(20-05-2023)
-
