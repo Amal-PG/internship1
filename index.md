@@ -61,7 +61,6 @@ void loop()
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-11%2012-51-51.png)
 
 PROGRAM
-
 ```
 // C++ code
 //
@@ -82,7 +81,7 @@ void loop()
   digitalWrite(12,LOW);
   delay(150); // Wait for 1000 millisecond(s)
 }
-```https://github.com
+```
 (4) LED CHASER
 
 [LED CHASER TINKER THIS](https://www.tinkercad.com/things/6hom0eosdLN)
@@ -134,6 +133,8 @@ void loop()
 ## DAY-5(15-05-2023)
 
 (1) DRONE
+
+  * FEATURES OF
 
 
 (2) WORKING OF ANALOG POTENTIOMETER
