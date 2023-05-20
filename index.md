@@ -95,7 +95,7 @@ PROGRAM
 //
 void setup()
 {
-  pinMode(13, OUTPUT);
+  pinMode(13, OUTPUT);https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2011-25-50.png
   pinMode(12, OUTPUT);
   pinMode(8, OUTPUT);
   pinMode(7, OUTPUT);
@@ -397,11 +397,34 @@ void loop()
 
 (2) BLINKING A RGB LED 
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2011-25-50.png)
 
-[BLINKING A RGB LED TIKER THIS]()
+[BLINKING A RGB LED TIKER THIS](https://www.tinkercad.com/things/1r5figIf824)
+
+PROGRAM
+
+```
 
 
+// C++ code
+//
+int ledPinG=8;
+int ledPinB=9;
+int ledPinR=11;
+void setup()
+{
+  
+}
+
+void loop()
+{
+  
+  analogWrite(ledPinB, random(0,255));
+  analogWrite(ledPinR, random(0,255));
+  analogWrite(ledPinG, random(0,255));            
+  delay(1000);
+}
+```
 ## DAY-9(19-05-2023)
 
 (1) DESIGNED A PUSHBUTTON
