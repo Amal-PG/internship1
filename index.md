@@ -82,7 +82,7 @@ void loop()
   digitalWrite(12,LOW);
   delay(150); // Wait for 1000 millisecond(s)
 }
-```
+```https://github.com
 (4) LED CHASER
 
 [LED CHASER TINKER THIS](https://www.tinkercad.com/things/6hom0eosdLN)
@@ -394,6 +394,13 @@ void loop()
    // Wait for 1000 millisecond(s)
 }
 ```
+
+(2) BLINKING A RGB LED 
+
+![NO IMAGE]()
+
+[BLINKING A RGB LED TIKER THIS]()
+
 
 ## DAY-9(19-05-2023)
 
