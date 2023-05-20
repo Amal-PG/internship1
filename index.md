@@ -435,7 +435,7 @@ void loop()
 
 [3D TRUCK TINKER THIS]https://www.tinkercad.com/things/iesby4ectHd()
 
-![NO IMAGE]()
+![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2013-34-18.png)
 
 ## DAY-9(19-05-2023)
 
