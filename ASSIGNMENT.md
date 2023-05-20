@@ -41,3 +41,7 @@ void loop() {
 }
 
 ```
+
+(2) CHAIN
+
+[CHAIN TINKER THIS](https://www.tinkercad.com/things/0oMsMFBWdRj)
