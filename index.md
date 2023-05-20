@@ -128,8 +128,6 @@ void loop()
 
 ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/blockly%20logic.png)
 
-(2) 
-
 ## DAY-5(15-05-2023)
 
 (1) DRONE
@@ -445,3 +443,6 @@ void loop()
 [DESIGNED A TRAFFIC SIGNAL LIGHT TINKER THIS]()
 
 ![NO IMAGE()
+
+## DAY-10(20-05-2023)
+
