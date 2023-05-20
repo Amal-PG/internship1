@@ -546,7 +546,7 @@ void loop() {
   
   [LCD DISPLAY TINKER THIS](https://www.tinkercad.com/things/6SWrCSA1QNl)
   
-  ![NO IMAGE]()
+  ![NO IMAGE](https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2013-27-36.png)
   
   PROGRAM
   ```
