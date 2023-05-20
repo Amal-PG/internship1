@@ -440,9 +440,9 @@ void loop()
 
 (2) DESIGNED A TRAFFIC SIGNAL LIGHT
 
-[DESIGNED A TRAFFIC SIGNAL LIGHT TINKER THIS]()
+[DESIGNED A TRAFFIC SIGNAL LIGHT TINKER THIS](https://www.tinkercad.com/things/8EaKQj5uqs9)
 
-![NO IMAGE()
+![NO IMAGE(https://github.com/Amal-PG/internship1/blob/main/Screenshot%20from%202023-05-20%2013-09-31.png)
 
 PROGRAM
 ```
