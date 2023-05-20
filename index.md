@@ -444,5 +444,70 @@ void loop()
 
 ![NO IMAGE()
 
+PROGRAM
+```
+// C++ code
+//
+// constants won't change. They're used here to set pin numbers:
+const int buttonPinR = 2;     // the number of the pushbutton pin
+const int ledPinR =  11;      // the number of the LED pin
+const int buttonPinO = 3;     // the number of the pushbutton pin
+const int ledPinO =  12; 
+const int buttonPinG = 4;     // the number of the pushbutton pin
+const int ledPinG =  13;  
+// variables will change:
+int buttonStateR = 0;         // variable for reading the pushbutton status
+int buttonStateO = 0;
+int buttonStateG = 0;
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPinR, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPinR, INPUT);
+   pinMode(ledPinO, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPinO, INPUT);
+   pinMode(ledPinG, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPinG, INPUT);
+}
+
+void loop() {
+  buttonStateR = digitalRead(buttonPinR);
+  buttonStateO = digitalRead(buttonPinO);
+  buttonStateG = digitalRead(buttonPinG);
+  // read the state of the pushbutton value
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonStateR == HIGH) {
+    // turn LED on:
+    digitalWrite(ledPinR, HIGH);
+    digitalWrite(ledPinO, LOW);
+    digitalWrite(ledPinG, LOW);
+    }
+  else if (buttonStateO == HIGH) {
+    digitalWrite(ledPinR, LOW);
+    digitalWrite(ledPinO, HIGH);
+    digitalWrite(ledPinG, LOW);
+    }
+  
+  else if (buttonStateG == HIGH) {
+    digitalWrite(ledPinR, LOW);
+    digitalWrite(ledPinO, LOW);
+    digitalWrite(ledPinG, HIGH);
+    }
+  else
+  {
+    digitalWrite(ledPinR, LOW);
+    digitalWrite(ledPinO, LOW);
+    digitalWrite(ledPinG, LOW);
+    }
+    
+    
+  }   
+  
+  ```
+
 ## DAY-10(20-05-2023)
 
