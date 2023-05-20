@@ -429,7 +429,14 @@ void loop()
   analogWrite(ledPinG, random(0,255));            
   delay(1000);
 }
+
 ```
+(3) 3D TRUCK
+
+[3D TRUCK TINKER THIS]()
+
+![NO IMAGE]()
+
 ## DAY-9(19-05-2023)
 
 (1) DESIGNED A PUSHBUTTON LED
